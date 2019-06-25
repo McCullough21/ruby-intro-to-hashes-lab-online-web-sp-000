@@ -9,7 +9,7 @@ end
 
 def monopoly
 	monopoly = {}
- monopoly[:railroads] = "f"
+ monopoly[:railroads] = "{}"
 # binding.pry
 end
 
