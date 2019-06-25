@@ -1,8 +1,5 @@
 def new_hash
- new_hash => {}
-hash = new_hash
-end
-hash
+Hash.new
 end
 
 def actor
