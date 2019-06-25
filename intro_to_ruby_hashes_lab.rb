@@ -10,7 +10,7 @@ end
 def monopoly
 	monopoly = {}
  monopoly[:railroads] = "f"
-binding.pry
+# binding.pry
 end
 
 def monopoly_with_second_tier
