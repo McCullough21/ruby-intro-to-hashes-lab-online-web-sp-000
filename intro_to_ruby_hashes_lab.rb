@@ -1,3 +1,4 @@
+require 'Pry'
 def new_hash
 Hash.new
 end
@@ -5,7 +6,6 @@ end
 def actor
 actor = {:name => "Dwayne The Rock Johnson"}
 end
-require 'Pry'
 def monopoly
 	monopoly = {}
  monopoly[:railroads] = "Hash.new"
