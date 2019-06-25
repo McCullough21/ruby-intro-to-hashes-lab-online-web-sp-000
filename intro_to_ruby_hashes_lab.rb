@@ -1,4 +1,4 @@
-require 'Pry'
+require 'pry'
 def new_hash
 Hash.new
 end
